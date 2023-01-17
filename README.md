@@ -1,7 +1,7 @@
 # Welcome to my portfolio represented in a 2D platformer way. 
 
-... Hello, I wanted to do something special with my [portfolio profile](https://suvratkumra2018.wixsite.com/portfolio) so I came up with this idea of showing off my skills and my passion and love for game designing by making a small interactive 2D platformer game in react-js which I plan to post online once completed. (link coming soon) 
-... If you love my profile and would like to do something similar for your profile, I am always happy to help. My contact information is listed below
+   Hello, I wanted to do something special with my [portfolio profile](https://suvratkumra2018.wixsite.com/portfolio) so I came up with this idea of showing off my skills and my passion and love for game designing by making a small interactive 2D platformer game in react-js which I plan to post online once completed. (link coming soon) 
+   If you love my profile and would like to do something similar for your profile, I am always happy to help. My contact information is listed below
 
 #### Contact
 * Email: suvratkumra2018@gmail.com
