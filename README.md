@@ -47,6 +47,9 @@
 * npm install --save -g lodash
 * npm install --save -g d3-interpolate
 
+Possible issues which does not let you compile the code:
+* Try updating the react scripts using command "npm install react-scripts@latest"
+
 
 
 
